@@ -1,0 +1,12 @@
+header{
+	display: block;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	width: 90vw;
+	height: 10vh;
+	background-color: rgb(46, 230, 163);
+}
+
+body{
+	background-color: green;
+}
